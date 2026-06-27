@@ -1,7 +1,7 @@
 # Cybersecurity Glossary
 
-> An interactive, comprehensive glossary of **150+ cybersecurity terms**
-> and **200+ enterprise technologies** organized by **NIST CSF 2.0** framework
+> An interactive, comprehensive glossary of **170+ cybersecurity terms**
+> and **220+ enterprise technologies** organized by **NIST CSF 2.0** framework
 > for security professionals, CISOs, and CSOs.
 
 ## 📖 What is This?
@@ -35,9 +35,13 @@ The glossary is structured around the **NIST Cybersecurity Framework (CSF) 2.0**
 **Purpose**: Establish and monitor organizational cybersecurity risk management strategy, expectations, and policy
 
 **Key Terms**: ISMS, DevSecOps, Risk Quantification, Regulatory Management, AI Act, DORA,
-Privacy Management, Compliance Assurance, Talent Management, Cyber Sustainability, Culture Change
+Privacy Management, Compliance Assurance, Talent Management, Cyber Sustainability, Culture Change,
+Digital Sovereignty, Data Sovereignty, Sovereign Cloud, Sovereign AI, GAIA-X, EUCS,
+SecNumCloud, CLOUD Act, Data Act (EU), Data Localization, Data Transfer Impact Assessment,
+Digital Markets Act, EUDI Wallet, Technological Independence
 
-**Example Technologies**: Archer GRC, OneTrust, Workiva, ServiceNow, MetricStream
+**Example Technologies**: Archer GRC, OneTrust, Workiva, ServiceNow, MetricStream,
+OVHcloud, Scaleway, T-Systems, ENISA, ANSSI, Mistral AI, Aleph Alpha
 
 ---
 
@@ -102,9 +106,9 @@ Each term is positioned in one of three maturity stages:
 | **Risk** | Higher | Moderate | Lower |
 
 **Examples:**
-- 🚀 **Emerging**: Homomorphic Encryption, AI Red Teaming, Serverless Security
-- 📈 **Trending**: Zero Trust, Cloud-Native Security, AI for Security
-- ✅ **Mature**: EDR, MFA, DRP, PAM
+- 🚀 **Emerging**: Homomorphic Encryption, AI Red Teaming, Serverless Security, GAIA-X, Sovereign AI, EUDI Wallet, EUCS
+- 📈 **Trending**: Zero Trust, Cloud-Native Security, AI for Security, Digital Sovereignty, Sovereign Cloud, SecNumCloud, Data Sovereignty
+- ✅ **Mature**: EDR, MFA, DRP, PAM, CLOUD Act, eIDAS
 
 ## ✨ Features
 
@@ -161,4 +165,39 @@ Save this as a bookmark for quick access:
 javascript:window.open('path/to/index.html', '_blank');
 ```
 
+## 🌍 Digital Sovereignty Coverage
+
+This glossary includes a dedicated cluster of **14 terms** covering the fast-growing **Digital Sovereignty** domain,
+reflecting the strategic priority of data control, regulatory independence, and technological autonomy for nations and enterprises:
+
+| Term | Category | Maturity |
+|------|----------|----------|
+| Digital Sovereignty | Govern | 📈 Trending |
+| Data Sovereignty | Govern | 📈 Trending |
+| Sovereign Cloud | Govern | 📈 Trending |
+| Sovereign AI | Govern | 🚀 Emerging |
+| GAIA-X | Govern | 🚀 Emerging |
+| EUCS (EU Cloud Cybersecurity Certification) | Govern | 🚀 Emerging |
+| SecNumCloud | Govern | 📈 Trending |
+| CLOUD Act | Govern | ✅ Mature |
+| Data Act (EU) | Govern | 📈 Trending |
+| Data Localization | Govern | 📈 Trending |
+| Data Transfer Impact Assessment (DTIA) | Govern | 📈 Trending |
+| Digital Markets Act (DMA) | Govern | 📈 Trending |
+| EUDI Wallet (EU Digital Identity Wallet) | Protect | 🚀 Emerging |
+| Technological Independence | Govern | 📈 Trending |
+
+---
+
 ## 📊 Content Statistics
+
+| Metric | Count |
+|--------|-------|
+| Total Terms | 170+ |
+| Technologies Referenced | 220+ |
+| NIST CSF 2.0 Functions | 6 |
+| Emerging Terms | 30+ |
+| Trending Terms | 60+ |
+| Mature Terms | 80+ |
+| Digital Sovereignty Terms | 14 |
+
