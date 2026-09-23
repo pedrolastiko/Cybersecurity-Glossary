@@ -59,7 +59,8 @@ AI Risk Assessment, Threat-led Pentest, Breach & Attack Simulation, Digital Twin
 **Purpose**: Use safeguards to manage cybersecurity risk
 
 **Key Terms**: Zero Trust, PAM, IAM, MFA, PKI, API Security, Containers Security, CNAPP,
-S-SDLC, Supply Chain Security, Confidential Computing, Post-Quantum Crypto, Passwordless
+S-SDLC, Supply Chain Security, Confidential Computing, Post-Quantum Crypto, Passwordless,
+Context Firewall
 
 **Example Technologies**: CyberArk, Okta, Microsoft Entra, Auth0, Snyk, Aqua Security
 
@@ -106,7 +107,7 @@ Each term is positioned in one of three maturity stages:
 | **Risk** | Higher | Moderate | Lower |
 
 **Examples:**
-- 🚀 **Emerging**: Homomorphic Encryption, AI Red Teaming, Serverless Security, GAIA-X, Sovereign AI, EUDI Wallet, EUCS
+- 🚀 **Emerging**: Homomorphic Encryption, AI Red Teaming, Serverless Security, GAIA-X, Sovereign AI, EUDI Wallet, EUCS, Context Firewall
 - 📈 **Trending**: Zero Trust, Cloud-Native Security, AI for Security, Digital Sovereignty, Sovereign Cloud, SecNumCloud, Data Sovereignty
 - ✅ **Mature**: EDR, MFA, DRP, PAM, CLOUD Act, eIDAS
 
